@@ -2,12 +2,16 @@ header {
   background-color: #48483A;
   color: #FFF2F1;
   text-align: center;
+  padding: 7px;
 }
 
-header h1 {
-  padding: 50;
+header h1, h3 {
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
+.img-padding {
+  padding:25px;
+}
 
 body {
   background-color: rgb(238, 238, 238);
@@ -21,13 +25,25 @@ h2 {
 footer {
   background-color: #48483A;
   color: #FFF2F1;
-  padding: 5px;
+  text-align: center;
+  padding: 20px;
   font-size: 12px;
 }
 
 .wrapper {
   width: 400px;
   margin: auto;
+}
+
+main p, ul, ol {
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 15px;
+  color: #48483A;
+}
+
+h2 {
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  color: #48483A;
 }
 
 img {
@@ -42,8 +58,21 @@ img {
 .centered-img {
   text-align: center;
 }
-  
+
+section {
+  padding: 10px;
+}  
+
 hr {
-  margin-top: 50px;
-  margin-bottom: 50px;
+  border: none;
+  background-color: #48483A;
+  width: 400px;
+  height: 1px;
+  margin: auto;
 }
+
+/* Link Colors */
+a:link    { color:  hsl(120, 100%, 25%);  }
+a:visited { color: hsl(120, 100%, 5%); }
+a:hover   { color: hsl(120, 100%, 35%); }
+a:active  { color: hsl(120, 100%, 15%); }
