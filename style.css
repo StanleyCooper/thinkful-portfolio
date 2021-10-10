@@ -72,6 +72,5 @@ hr {
 }
 
 /* Link Colors */
-a:link    { color:  hsl(120, 100%, 5%);  }
-a:visited { color: hsl(120, 100%, 5%); }
-a:active  { color: hsl(120, 100%, 10%); }
+a:link    { color:  hsl(120, 100%, 1%);  }
+
