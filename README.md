@@ -29,3 +29,7 @@ This is an assignment for the Thinkful Engineering Flex program. The idea is to 
 ## Big takeaways from this
 * I need more photos of myself. Stop taking only photos with just my wife.
 * I need to set up a linked in account. Get professional photos taken
+
+## Things to add:
+Anything added during the Thinkful course, such as:
+-Javascript
