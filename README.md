@@ -33,3 +33,7 @@ This is an assignment for the Thinkful Engineering Flex program. The idea is to 
 ## Things to add:
 Anything added during the Thinkful course, such as:
 -Javascript
+-React
+-Projects 
+-Coding challenges 
+-Real contact info
